@@ -1,4 +1,4 @@
-# 辻本 伊吹 - ゲーム開発ポートフォリオ
+![portfolio03](https://github.com/user-attachments/assets/ae1f6132-63ab-460d-9865-98a617244f75)# 辻本 伊吹 - ゲーム開発ポートフォリオ
 
 大学でプログラミングを学びながら、Unityを中心に複数のゲーム・ツールを開発してきました。  
 クオリティとユーザー体験にこだわりながら、自分で考え・実装し・改善することを大切にしています。  
@@ -9,7 +9,7 @@
 
 ## ① BanditDash：2Dオートスクロールアクションゲーム
 Unityで開発した、スマートフォン向けの横スクロールアクションゲームです。オートスクロールの中で攻撃やアイテムを駆使し、ステージクリアを目指します。  
-📎 [GitHubリポジトリ](https://github.com/kiri070/BanditDash.git)
+ [GitHubリポジトリ](https://github.com/kiri070/BanditDash.git)
 
 - 使用技術：Unity / C#
 - 実績：Google Play Storeにて公開中
@@ -21,7 +21,7 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
 
 ## ② バレーボールの点数管理ソフトウェア
 父の勤務先の企業が主催する9人制バレーボール試合のYouTubeライブ中継にて使用された、スコア管理アプリを制作。実際の現場で運用され、高評価を得ました。  
-📎 [GitHubリポジトリ](https://github.com/kiri070/ValleyScoreManager.git)
+ [GitHubリポジトリ](https://github.com/kiri070/ValleyScoreManager.git)
 
 - 使用技術：Unity / C#
 - 工夫点：
@@ -33,7 +33,12 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
 
 ## ③ ルート設計型2体操作アクション（開発中／チーム制作）
 タイル状のマップ上でルートをなぞり、敵を倒しながらゴールを目指すアクションゲーム。2体のキャラを切り替えて操作し、ギミックを攻略していきます。  
-📎 [GitHubリポジトリ](https://github.com/kiri070/TeamCreate.git)
+ [GitHubリポジトリ](https://github.com/kiri070/TeamCreate.git)
+
+ 
+## プレイ動画（GIF）
+
+![プレイ画面](![portfolio03](https://github.com/user-attachments/assets/6e86cdfe-8877-450e-9f04-e91c4c0414c7))
 
 - 使用技術：Unity / C#
 - 開発中ポイント：
