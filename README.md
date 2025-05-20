@@ -25,6 +25,8 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
 父の勤務先の企業が主催する9人制バレーボール試合のYouTubeライブ中継にて使用された、スコア管理アプリを制作。実際の現場で運用され、高評価を得ました。  
  [GitHubリポジトリ](https://github.com/kiri070/ValleyScoreManager.git)
 
+ ![プレイGIF](https://github.com/kiri070/ValleyScoreManager/raw/main/Assets/Gifs/portfolio02.gif)
+
 - 使用技術：Unity / C#
 - 工夫点：
   - 誰でも直感的に操作できるUI配置
