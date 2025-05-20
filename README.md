@@ -38,7 +38,7 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
  
 ## プレイ動画（GIF）
 
-![プレイ画面](![portfolio03](https://github.com/user-attachments/assets/6e86cdfe-8877-450e-9f04-e91c4c0414c7))
+![プレイGIF](https://github.com/kiri070/リポジトリ名/raw/main/Assets/Gifs/portfolio03.gif)
 
 - 使用技術：Unity / C#
 - 開発中ポイント：
