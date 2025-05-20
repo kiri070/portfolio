@@ -35,10 +35,11 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
 タイル状のマップ上でルートをなぞり、敵を倒しながらゴールを目指すアクションゲーム。2体のキャラを切り替えて操作し、ギミックを攻略していきます。  
  [GitHubリポジトリ](https://github.com/kiri070/TeamCreate.git)
 
- 
+  
 ## プレイ動画（GIF）
 
 ![プレイGIF](https://github.com/kiri070/TeamCreate/raw/main/Assets/Gifs/portfolio03.gif)
+
 
 - 使用技術：Unity / C#
 - 開発中ポイント：
