@@ -5,13 +5,16 @@ Unityでプレイヤーがオートスクロールの中で攻撃やアイテム
 → [GitHubリポジトリ](https://github.com/kiri070/BanditDash.git)
 
 - 使用技術：Unity / C#
-- ポイント：操作がしやすいUI設計を意識
+- ポイント：スマホでの操作がしやすいUI設計を意識、Google Play Storeにて投稿しました。
 
 ---
 
 ## 作品2:バレーボールの点数管理ソフトウェア
 父の勤める企業の9人制バレーボール試合のYoutubeライブ中継を行うプロジェクトに参加し、制作しました。
 → [GitHubリポジトリ](https://github.com/kiri070/ValleyScoreManager.git)
+
+- 使用技術：Unity / C#
+- ポイント：誰でも直感的に操作ができるUIの配置、点数の色付け、コートチェンジの処理
 
 ---
 
