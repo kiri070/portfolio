@@ -11,6 +11,8 @@
 Unityで開発した、スマートフォン向けの横スクロールアクションゲームです。オートスクロールの中で攻撃やアイテムを駆使し、ステージクリアを目指します。  
  [GitHubリポジトリ](https://github.com/kiri070/BanditDash.git)
 
+
+## プレイ動画（GIF)  
  ![プレイGIF](https://github.com/kiri070/BanditDash/raw/main/Assets/Gifs/portfolio01.gif)
 
 - 使用技術：Unity / C#
