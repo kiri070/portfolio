@@ -42,18 +42,18 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
 
 ---
 
-## ③ ルート設計型2体操作アクション（開発中／チーム制作）
-タイル状のマップ上でルートをなぞり、敵を倒しながらゴールを目指すアクションゲーム。2体のキャラを切り替えて操作し、ギミックを攻略していきます。  
+## ③ ショートカットアプリ
+実行ファイルexeやウェブサイトのurlを登録してすぐに開けるようにするアプリケーションです。
 - 詳細はこちら  
- [GitHubリポジトリ](https://github.com/kiri070/TeamCreate.git)
+ [GitHubリポジトリ](https://github.com/kiri070/ShortcutApp_Git.git)
 
   
-## プレイ動画（GIF）
+## アプリ画像
 
-![プレイGIF](https://github.com/kiri070/TeamCreate/raw/main/Assets/Gifs/portfolio03.gif)
+![画像](https://github.com/kiri070/ShortcutApp_Git/blob/main/images/image01.png)
 
 
-- 使用技術：Unity / C#
-- 開発中ポイント：
-  - チーム開発を意識したコードの整理・分担
-  - プレイヤー2体による戦略的な操作と分岐処理
+- 使用技術：WPF / C#
+- 工夫点：
+  - チームメンバーに扱ってもらうために制作しました
+  - ショートカットの登録、削除ができる
