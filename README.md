@@ -17,7 +17,7 @@ Unityで開発した、スマートフォン向けの横スクロールアクシ
  ![プレイGIF](https://github.com/kiri070/BanditDash/raw/main/Assets/Gifs/portfolio01.gif)
 
 - 使用技術：Unity / C#
-- 実績：Google Play Storeにて公開中
+- 実績：Google Play Storeにて公開していました(現在は多忙により、管理しきれずアカウントがありません。）
 - 工夫点：
   - スマホ操作を考慮したUI設計
   - 最終ステージのボス処理（パターン変化や演出）
